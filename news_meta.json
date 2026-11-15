@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-16T06:08+09:00",
+  "checked_at": "2026-11-16T08:14+09:00",
   "added": 0,
   "total": 200,
   "sources": {
@@ -62,9 +62,10 @@
       "last_ok": "2026-11-16"
     },
     "徳島県診療放射線技師会": {
-      "listed": 5,
-      "picked": 0,
-      "last_ok": "2026-11-16"
+      "error": "URLError: <urlopen error timed out>",
+      "last_ok": "2026-11-16",
+      "failing_since": "2026-11-16",
+      "failing_days": 1
     },
     "高知県診療放射線技師会": {
       "listed": 165,
@@ -143,7 +144,7 @@
     },
     "日本乳癌学会": {
       "listed": 10,
-      "picked": 4,
+      "picked": 3,
       "last_ok": "2026-11-16"
     },
     "MRIfan.net": {
