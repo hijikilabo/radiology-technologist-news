@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-11-16",
+    "category": "教育",
+    "importance": "中",
+    "headline": "第83回日本放射線技術学会総会学術大会での企画案内",
+    "summary": "",
+    "why": "",
+    "source": "日本放射線技術学会 中国・四国支部",
+    "url": "https://jsrt-chushi.jp/?p=6324",
+    "track": "general",
+    "summary_tried": "2026-11-16"
+  },
+  {
+    "date": "2026-11-16",
+    "category": "放射線治療",
+    "importance": "中",
+    "headline": "用語略語集2026年版ver1.0を掲載いたしました。",
+    "summary": "放射線腫瘍学における、一般的に活用されている用語、略語の索引コーナーになります。 下記検索・絞り込み条件を設定して、対象の用語、略語をお調べいただくことが出来ます。",
+    "why": "",
+    "source": "日本放射線腫瘍学会",
+    "url": "https://www.jastro.or.jp/medicalpersonnel/glossary/",
+    "track": "general",
+    "summary_tried": "2026-11-16"
+  },
+  {
+    "date": "2026-11-16",
+    "category": "超音波",
+    "importance": "中",
+    "headline": "2027・2028年度代議員・役員改選に伴う立候補届の受付は終了しました．",
+    "summary": "",
+    "why": "",
+    "source": "日本超音波検査学会",
+    "url": "https://www.jss.org/news/society/n261116/",
+    "track": "general",
+    "summary_tried": "2026-11-16"
+  },
+  {
+    "date": "2026-11-16",
+    "category": "学術",
+    "importance": "低",
+    "headline": "医療健康科学部 志村・近藤研究室3年生の工島さんが第1回東京放射線医療技術学術大会でシンポジストとして登壇しました - 駒澤大学",
+    "summary": "第1回東京放射線医療技術学術大会（東京都診療放射線技師会、 日本放射線技術学会東京支部 合同主催）の学生シンポジウム「 これからの診療放射線技師に求められるスキルとは？ ―職能と学術の視点で考える― 」において、駒澤大学からは、医療健康科学部 志村・近藤研究室3年生の工島 理心さ…",
+    "why": "",
+    "source": "駒澤大学",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ocXhUR3QyYXRCc25zdXg5LXdqUHhqQ3ljYTBXQm9PWktIaXh5U2FnZkx4UFFKeUY0bU1naXZxMTIzYklGSWNYaWlrdU0yNnB2c1AwWEJ4S1F1VG8wUzVQaDNyNnJIY2Z0U29MVTUwdUw?oc=5",
+    "track": "general",
+    "summary_tried": "2026-11-16"
+  },
+  {
     "date": "2026-11-13",
     "category": "マンモグラフィ",
     "importance": "中",
@@ -2375,54 +2423,6 @@
     "why": "",
     "source": "Science Tokyo",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43bF9hLXdadFRyN29VUDVhdkt3OFpBOTFacUNjaG56UE1qS00xSUt0ek84SVZkbFh1bzNFTnQyUlpjUmZiWDBRa2pFMy0zNjJWLWg3aWJ3?oc=5",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-15",
-    "category": "教育",
-    "importance": "中",
-    "headline": "eラーニングが視聴できない事案について - 日本診療放射線技師会",
-    "summary": "年会費未納によるeラーニング視聴停止についてのお知らせ。お支払い状況をご確認ください。",
-    "why": "会員ページやeラーニングを使う予定があれば、止まる時間や再開の時期を確認しておきましょう。",
-    "source": "日本診療放射線技師会",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9paml4YTBHODNiV0RYVXcwZWVBNVpwMVQxZnA4QXhVU18yQzBHNzQwRzdZM3JVZG0yY2M0YkdiaXQtb01aZWh0dWJsZktieG54REM4?oc=5",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-15",
-    "category": "MRI",
-    "importance": "低",
-    "headline": "9人に1人がかかる“乳がん” 最新の「無痛MRI」と患者を支える「乳腺チーム」とは？大分（TOSテレビ大分） - Yahoo!ニュース",
-    "summary": "",
-    "why": "",
-    "source": "Yahoo!ニュース",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nV2YtWTBfODRMT1gxNXJQQk4taUhZOXkzZElwLTI2VjhMMFlHZjFNbWFIdDRXVDdkNUtxSFp0Q1d4UXNlZ1BGSW9EUEI4S25vclF1N3BOTWFDWUt3bEo2YnZfMVhlMDU1SGhacTZranZtc1NVdnJWbnZOZWM5V3c?oc=5",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-15",
-    "category": "MRI",
-    "importance": "高",
-    "headline": "「患者の体内に植込まれた医療機器」等を十分に確認せずにMRI検査を実施してしまう医療事故が依然として散発—医療機能評価機構 - GemMed",
-    "summary": "「患者の体内に植込まれた医療機器」等を十分に確認せずにMRI検査をオーダ・実施してしまった—。 日本医療機能評…",
-    "why": "自分の検査で同じ確認漏れが起きないか、問診やチェックの手順を見直すきっかけにしましょう。",
-    "source": "GemMed",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zbnM2MXU0Q3ZUSVJENktkdThBLWZqc1VWQS0yam5rTXNWWDhUWGJpN1ljTEVESTktRjV5dWxtV2FuX05CS0JPTQ?oc=5",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-15",
-    "category": "教育",
-    "importance": "低",
-    "headline": "駒沢大学とシーメンス、画像診断の人材育成拠点 操作やメンテなど - 日本経済新聞",
-    "summary": "駒沢大学とシーメンスヘルスケア（東京・品川）は15日、「画像診断人材教育センター」を駒沢キャンパス（東京・世田谷）に開設したと発表した。画像診断装置を使った訓練が可能で、操作や機器のメンテナンスができる専門人材を産学で育てる。",
-    "why": "",
-    "source": "日本経済新聞",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45MGVrenliWFF2dTZnMlA2WnZXTWs1Y0Y5eFA5N3hiTE1YUGFMYTNvdEI0UGRsNGZrb21YOGROaUh3Z1BZa2JmR2RXY19EX01vcEpSNVBteGVZa2dOVXVXT3ZQbUUyWEdXZk1CQw?oc=5",
     "track": "general",
     "summary_tried": "2026-11-03"
   }
