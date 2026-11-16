@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-11-16",
+    "category": "その他",
+    "importance": "中",
+    "headline": "アプリ版Kalib電子書籍サービス終了のお知らせ",
+    "summary": "従来のアプリ版Kalib電子書籍サービスは、 10月23日よりPHPの脆弱性に伴う緊急メンテナンスのためサービスを停止しておりましたが、サービス再開の目途が立たないことから、運営元である杏林舎により、サービスの終了が決定されました。",
+    "why": "",
+    "source": "日本消化器がん検診学会",
+    "url": "https://www.jsgcs.or.jp/news/archives/1153",
+    "track": "general",
+    "summary_tried": "2026-11-16"
+  },
+  {
+    "date": "2026-11-15",
+    "category": "安全管理",
+    "importance": "中",
+    "headline": "【再掲】医療安全管理者養成研修の開催について【開催決定と募集の延長について】 - 日本診療放射線技師会",
+    "summary": "医療安全管理者養成研修の詳細と受講方法を紹介。必要な知識と実践能力を身につけ、医療の質向上を目指します。",
+    "why": "",
+    "source": "日本診療放射線技師会",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yLXo2dlE5YWhRenh2VzVFaGpHLUdkVWdqX2d4TlJaLVphZWQ4clQtbi1oWWM4cWwtOENCTlAzTjJxOVRPaFc4dm1oMjcxd00?oc=5",
+    "track": "official",
+    "summary_tried": "2026-11-16"
+  },
+  {
+    "date": "2026-11-16",
     "category": "教育",
     "importance": "中",
     "headline": "第83回日本放射線技術学会総会学術大会での企画案内",
@@ -2400,30 +2424,6 @@
     "source": "医療テックニュース",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNWxkdVIwYlhYUlRSb19MdkpyMXZLbkdFM3JGWHBTM0hwV3FYeWFlSGZ0RVZfbjN2MmxoUUtBMGpRVlpYVVlkbmlPNWpuLUg1MXJJd3R3R0lrc0lnMEZiMW05TldfSlZpWkE?oc=5",
     "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-16",
-    "category": "安全管理",
-    "importance": "高",
-    "headline": "■NEWS MRI検査時の体内植込み機器等の確認忘れで再度の注意喚起─医療安全情報 - 日本医事新報社",
-    "summary": "日本医療機能評価機構は10月15日に公表した「医療安全情報No.239」で、MRI検査時に患者の体内に植込まれた医療機器等の確認が不十分だった事例を紹介し、注意を促した。2012年にも同様の事例を取り上げているが、その後も8件の事例報告があったため、再度の注意喚起を決めた。",
-    "why": "自分の検査で同じ確認漏れが起きないか、問診やチェックの手順を見直すきっかけにしましょう。",
-    "source": "日本医事新報社",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xLTRyWEJDRUduWHhNU0RFVUZ1ZFdSdnBKeWlHR2lPazMyRDBFTW1FNlg5UDljbVNfSVgxbVBSanJKZnh6ckN0X1JoOVpyYVdEc3N4b2FZcFBOVldpcGFmQQ?oc=5",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-16",
-    "category": "MRI",
-    "importance": "低",
-    "headline": "クローン病の腸管狭窄、治療後の残存リスクをMRIで層別化 - Science Tokyo",
-    "summary": "東京科学大学病院 光学医療診療部の竹中健人講師、東京科学大学 医歯学総合研究科 消化器病態学分野の岡本隆一教授らの研究チームは、 クローン病 [用語1] に伴う 腸管狭窄 [用語2] について、治療開始前の MRE（MRエンテログラフィー） [用語3] 画像から「治療後も狭窄が残…",
-    "why": "",
-    "source": "Science Tokyo",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43bF9hLXdadFRyN29VUDVhdkt3OFpBOTFacUNjaG56UE1qS00xSUt0ek84SVZkbFh1bzNFTnQyUlpjUmZiWDBRa2pFMy0zNjJWLWg3aWJ3?oc=5",
-    "track": "general",
     "summary_tried": "2026-11-03"
   }
 ]

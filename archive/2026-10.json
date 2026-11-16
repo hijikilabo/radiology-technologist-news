@@ -1,5 +1,29 @@
 [
  {
+  "date": "2026-10-16",
+  "category": "安全管理",
+  "importance": "高",
+  "headline": "■NEWS MRI検査時の体内植込み機器等の確認忘れで再度の注意喚起─医療安全情報 - 日本医事新報社",
+  "summary": "日本医療機能評価機構は10月15日に公表した「医療安全情報No.239」で、MRI検査時に患者の体内に植込まれた医療機器等の確認が不十分だった事例を紹介し、注意を促した。2012年にも同様の事例を取り上げているが、その後も8件の事例報告があったため、再度の注意喚起を決めた。",
+  "why": "自分の検査で同じ確認漏れが起きないか、問診やチェックの手順を見直すきっかけにしましょう。",
+  "source": "日本医事新報社",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xLTRyWEJDRUduWHhNU0RFVUZ1ZFdSdnBKeWlHR2lPazMyRDBFTW1FNlg5UDljbVNfSVgxbVBSanJKZnh6ckN0X1JoOVpyYVdEc3N4b2FZcFBOVldpcGFmQQ?oc=5",
+  "track": "official",
+  "summary_tried": "2026-11-03"
+ },
+ {
+  "date": "2026-10-16",
+  "category": "MRI",
+  "importance": "低",
+  "headline": "クローン病の腸管狭窄、治療後の残存リスクをMRIで層別化 - Science Tokyo",
+  "summary": "東京科学大学病院 光学医療診療部の竹中健人講師、東京科学大学 医歯学総合研究科 消化器病態学分野の岡本隆一教授らの研究チームは、 クローン病 [用語1] に伴う 腸管狭窄 [用語2] について、治療開始前の MRE（MRエンテログラフィー） [用語3] 画像から「治療後も狭窄が残…",
+  "why": "",
+  "source": "Science Tokyo",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43bF9hLXdadFRyN29VUDVhdkt3OFpBOTFacUNjaG56UE1qS00xSUt0ek84SVZkbFh1bzNFTnQyUlpjUmZiWDBRa2pFMy0zNjJWLWg3aWJ3?oc=5",
+  "track": "general",
+  "summary_tried": "2026-11-03"
+ },
+ {
   "date": "2026-10-15",
   "category": "教育",
   "importance": "中",
