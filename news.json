@@ -1,6 +1,42 @@
 [
   {
     "date": "2026-11-17",
+    "category": "核医学",
+    "importance": "中",
+    "headline": "日本核医学専門技師認定機構　機構概要",
+    "summary": "",
+    "why": "",
+    "source": "日本核医学会",
+    "url": "https://jsnm.org/archives/10455/",
+    "track": "official",
+    "summary_tried": "2026-11-17"
+  },
+  {
+    "date": "2026-11-17",
+    "category": "学術",
+    "importance": "中",
+    "headline": "学会誌64巻6号が公開されました。",
+    "summary": "学会誌64巻6号がWebブラウザ版KaLibとJ-STAGEで公開されました。 詳細は こちら をご参照ください。",
+    "why": "",
+    "source": "日本消化器がん検診学会",
+    "url": "https://www.jsgcs.or.jp/news/archives/1154",
+    "track": "general",
+    "summary_tried": "2026-11-17"
+  },
+  {
+    "date": "2026-11-17",
+    "category": "CT",
+    "importance": "低",
+    "headline": "Soombit.ai、シリーズAで120億ウォン調達 CT・MRI向け展開を加速 - 디지털투데이",
+    "summary": "",
+    "why": "",
+    "source": "디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3pMbDlsVTZSRFZsM2F5N0JoT0JZdFZMOWotOXlnUmZQNzFkcUFOQ0w3MFc5eHA3ZWtxZy1SRnEwQ3loX25pdjk2d2RwNGp0eENJMHl3UWYyNk5scElBQk9zLUttZTY4VGpTS21nWnp0YVpEb2wxZHUxa0xJck1rcHBmb0ROaENZSnhvTlJtcFBwNWYyRVZlMWFKX1liNDlHVkQxRDZlRGlEMXJKRGNZMG0zWGdudEJfeWFKRERqUC1ONkxXSnhfTV85NWR3bjEtTHc?oc=5",
+    "track": "general",
+    "summary_tried": "2026-11-17"
+  },
+  {
+    "date": "2026-11-17",
     "category": "AI",
     "importance": "低",
     "headline": "TestDynamics、医療画像AIの評価に向けシリーズAで900万ドルを調達 - Unite.AI",
@@ -2384,45 +2420,6 @@
     "why": "",
     "source": "読売新聞",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sQ08zSVcxNUhpbWliUjk0a2FmTkFydkhsQ1ctelQ1bTNNMlNKYWUzX1haTU5fNHlybnVTX29jSGZ2U1FFUGNCdmprZUt6Ql9xMzR5Wkp6U3JhZ0E?oc=5",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-16",
-    "category": "学術",
-    "importance": "中",
-    "headline": "［お知らせ］医工連携：臨床ニーズマッチング会の開催について（10月23日） - 公益社団法人 日本放射線技術学会",
-    "summary": "日本放射線技術学会では、日本画像医療システム工業会（JIRA）との協働により、秋季学術大会に併設して「医工連携：臨床ニーズマッチング会」を開催いたします。",
-    "why": "",
-    "source": "日本放射線技術学会",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93QnFESGZjTlkxZE45WjF0d2dKcW9xMDlSUmx3Z1NZWU5fcF9RdEhSb2x4ZV9sVHpXS1hCYk4wWHVQMV9lRTA4aE83a3N1bC1k?oc=5",
-    "track": "general",
-    "summary_tried": "2026-11-03",
-    "event_date": "2026-10-23",
-    "event_kind": "開催",
-    "event_place": ""
-  },
-  {
-    "date": "2026-10-16",
-    "category": "学術",
-    "importance": "中",
-    "headline": "参加登録／参加者へのご案内 – 第54回日本放射線技術学会秋季学術大会 - 公益社団法人 日本放射線技術学会",
-    "summary": "",
-    "why": "",
-    "source": "日本放射線技術学会",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZUUEtNEtHaFk0cEp3eUJheS1KNWhUdXU3eURHeW9ONURMV3Q5T0ZBUU9WQzZmTS1kSFFvUXlJeDVHSm9rTWtJamVqaEowWFBhSEFEOXVQeXdFVXNlR0FMS0R3?oc=5",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-16",
-    "category": "学術",
-    "importance": "中",
-    "headline": "［案内板］日本放射線看護学会 第15回学術集会のご案内 - 公益社団法人 日本放射線技術学会",
-    "summary": "",
-    "why": "",
-    "source": "日本放射線技術学会",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPNkdwYW0xQy1XWnI3U1MxS3dnMmVpU3VOUmI2Y1ZWSHdFakktSkdnYkVqUGo2cEZwdzlENndVM0o4VXNfc1hHNWJhWWtZejU0?oc=5",
     "track": "general",
     "summary_tried": "2026-11-03"
   }
