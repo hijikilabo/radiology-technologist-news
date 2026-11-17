@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-17T11:10+09:00",
-  "added": 3,
+  "checked_at": "2026-11-17T14:11+09:00",
+  "added": 1,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -27,8 +27,8 @@
       "last_ok": "2026-11-17"
     },
     "厚生労働省": {
-      "listed": 102,
-      "picked": 1,
+      "listed": 106,
+      "picked": 2,
       "last_ok": "2026-11-17"
     },
     "日本消化器がん検診学会": {
@@ -93,9 +93,10 @@
       "last_ok": "2026-11-17"
     },
     "日本IVR学会": {
-      "listed": 10,
-      "picked": 0,
-      "last_ok": "2026-11-17"
+      "error": "URLError: <urlopen error timed out>",
+      "last_ok": "2026-11-17",
+      "failing_since": "2026-11-17",
+      "failing_days": 1
     },
     "日本超音波医学会": {
       "listed": 10,
@@ -249,7 +250,7 @@
       "last_ok": "2026-11-17"
     },
     "要約": {
-      "tried": 3,
+      "tried": 1,
       "filled": 1,
       "remaining": 0
     },
@@ -276,7 +277,7 @@
     },
     "技師会の研修一覧": {
       "listed": 44,
-      "upcoming": 37,
+      "upcoming": 38,
       "last_ok": "2026-11-17"
     },
     "香川県技師会のお知らせ(別枠)": {
