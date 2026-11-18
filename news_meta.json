@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-18T10:23+09:00",
-  "added": 2,
+  "checked_at": "2026-11-18T13:38+09:00",
+  "added": 1,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -27,7 +27,7 @@
       "last_ok": "2026-11-18"
     },
     "厚生労働省": {
-      "listed": 111,
+      "listed": 113,
       "picked": 2,
       "last_ok": "2026-11-18"
     },
@@ -170,20 +170,16 @@
       "last_ok": "2026-11-18"
     },
     "日本放射線技術学会雑誌": {
-      "feed_entries": 4,
-      "rss_items": 4,
-      "contents_items": 6,
-      "listed": 6,
-      "added": 0,
-      "last_ok": "2026-11-18"
+      "error": "RSS: HTTP Error 502: Bad Gateway; 目次: HTTP Error 502: Bad Gateway",
+      "last_ok": "2026-11-18",
+      "failing_since": "2026-11-18",
+      "failing_days": 1
     },
     "日本消化器がん検診学会雑誌": {
-      "feed_entries": 19,
-      "rss_items": 18,
-      "contents_items": 17,
-      "listed": 18,
-      "added": 0,
-      "last_ok": "2026-11-18"
+      "error": "RSS: HTTP Error 502: Bad Gateway; 目次: HTTP Error 502: Bad Gateway",
+      "last_ok": "2026-11-18",
+      "failing_since": "2026-11-18",
+      "failing_days": 1
     },
     "日本乳癌検診学会誌": {
       "feed_entries": 0,
