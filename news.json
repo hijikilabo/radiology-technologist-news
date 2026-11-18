@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-11-18",
+    "category": "教育",
+    "importance": "中",
+    "headline": "［案内板］2026医学物理士になろう講演会",
+    "summary": "日本医学物理士会では「2026 医学物理士になろう講演会」を下記のとおり開催いたします。 本講演会では、粒子線治療の臨床・開発の第一線で活躍する医学物理士の先生方に、医学物理士の仕事内容ややりがいをご紹介いただきます。",
+    "why": "",
+    "source": "日本放射線技術学会",
+    "url": "https://www.jsrt.or.jp/data/news/70707/",
+    "track": "general",
+    "summary_tried": "2026-11-18"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "検診",
+    "importance": "中",
+    "headline": "消化器がん検診総合認定医制度規程の認定基準一部改正のお知らせ",
+    "summary": "下記のとおり改正いたしましたのでお知らせいたします。 なお，本改正は第8回（2027年度）総合認定医試験より適用となります。",
+    "why": "",
+    "source": "日本消化器がん検診学会",
+    "url": "https://www.jsgcs.or.jp/news/archives/1156",
+    "track": "general",
+    "summary_tried": "2026-11-18"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "マンモグラフィ",
+    "importance": "中",
+    "headline": "乳房構成判定アトラス2026年版について",
+    "summary": "日本乳癌検診学会作成の「乳房構成判定アトラス2026年版」が公開されましたので、お知らせいたします。",
+    "why": "",
+    "source": "日本乳癌学会",
+    "url": "https://www.jbcs.gr.jp/modules/info/index.php?content_id=317",
+    "track": "general",
+    "summary_tried": "2026-11-18"
+  },
+  {
     "date": "2026-11-17",
     "category": "その他",
     "importance": "中",
@@ -2386,41 +2422,5 @@
     "event_date": "2027-01-09",
     "event_kind": "開催",
     "event_place": "東京"
-  },
-  {
-    "date": "2026-10-21",
-    "category": "教育",
-    "importance": "中",
-    "headline": "令和9年度からの放射線科領域研修を希望する方へ - 日本医学放射線学会",
-    "summary": "",
-    "why": "",
-    "source": "日本医学放射線学会",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBINDZOVEhkeVA2ZTBReWhfelRHM1gxbkVXbmVqbWR2cFRTUkdzVUxiUktXVkJjMGlpYjVrQlFCeWU3M25oYTFWTWFBbUZqaE5mZG1wQ2tMUWRiVnlqemZhZVFzbloyaDU4clE5ZTlrWVMyNmp3?oc=5",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-21",
-    "category": "AI",
-    "importance": "低",
-    "headline": "Mayo Clinicの膵がんAI、放射線科医が見逃すリスクシグナルを検出 - remio",
-    "summary": "Mayo Clinicの膵がんAIは、患者が臨床診断を受ける最大3年前の通常のCT検査で、隠れた警告サインを検出した。このモデルは、独立したテストセットにおける診断前がん症例の73%を発見した。同じ画像を評価した専門放射線科医が発見した割合は38.9%だった。",
-    "why": "",
-    "source": "remio",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFhzSktIZEdJdFhtbU5MeHd3TlFrSHhneUMxSG9MZ1M2RjI0QWN4OU1WNHFCRmlxMGxDOThLb0xtWk5TbFgwMElqVGt5MFJXOFVTblI1RVlqQ29LMzJ2N081NW9NenRmLVQ0dElZQ2V5VE1MS3lwUjlwa1FyQUpPTnI4Y2wwSDFmRFdZcEtmWjBSbEhnaGRNU3g0RzVMR0V1MnBfNE81WThGZw?oc=5",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-21",
-    "category": "放射線治療",
-    "importance": "中",
-    "headline": "福岡輝栄会病院、頭部疾患の定位放射線治療装置ＺＡＰ‐Ｘ®を西日本初導入へ - Dellows News",
-    "summary": "医療法人輝栄会が運営する福岡輝栄会病院は、頭部（特に脳）疾患に特化した定位放射線治療装置「ＺＡＰ‐Ｘ®」を導入する。西日本で初めての導入となり、国内では４台目となる予定だ（２０２６年９月時点ＺＡＰ Ｓ…",
-    "why": "",
-    "source": "Dellows News",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9qenc0dHBKa0lmZTdTRDNDUndrMlNSR1RaZ29HX2M3RE1CN1BYbGllTERPd2I0N1VnREg2OEtURTZTMEpyTEE?oc=5",
-    "track": "general",
-    "summary_tried": "2026-11-03"
   }
 ]

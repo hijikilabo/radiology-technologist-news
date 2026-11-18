@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-18T13:38+09:00",
-  "added": 1,
+  "checked_at": "2026-11-18T22:14+09:00",
+  "added": 4,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -12,7 +12,7 @@
       "last_ok": "2026-11-18"
     },
     "日本放射線技術学会": {
-      "listed": 46,
+      "listed": 48,
       "picked": 5,
       "last_ok": "2026-11-18"
     },
@@ -27,7 +27,7 @@
       "last_ok": "2026-11-18"
     },
     "厚生労働省": {
-      "listed": 113,
+      "listed": 121,
       "picked": 2,
       "last_ok": "2026-11-18"
     },
@@ -145,7 +145,7 @@
     },
     "日本乳癌学会": {
       "listed": 10,
-      "picked": 3,
+      "picked": 4,
       "last_ok": "2026-11-18"
     },
     "MRIfan.net": {
@@ -170,16 +170,20 @@
       "last_ok": "2026-11-18"
     },
     "日本放射線技術学会雑誌": {
-      "error": "RSS: HTTP Error 502: Bad Gateway; 目次: HTTP Error 502: Bad Gateway",
-      "last_ok": "2026-11-18",
-      "failing_since": "2026-11-18",
-      "failing_days": 1
+      "feed_entries": 4,
+      "rss_items": 4,
+      "contents_items": 6,
+      "listed": 6,
+      "added": 0,
+      "last_ok": "2026-11-18"
     },
     "日本消化器がん検診学会雑誌": {
-      "error": "RSS: HTTP Error 502: Bad Gateway; 目次: HTTP Error 502: Bad Gateway",
-      "last_ok": "2026-11-18",
-      "failing_since": "2026-11-18",
-      "failing_days": 1
+      "feed_entries": 19,
+      "rss_items": 18,
+      "contents_items": 17,
+      "listed": 18,
+      "added": 0,
+      "last_ok": "2026-11-18"
     },
     "日本乳癌検診学会誌": {
       "feed_entries": 0,
@@ -246,8 +250,8 @@
       "last_ok": "2026-11-18"
     },
     "要約": {
-      "tried": 1,
-      "filled": 0,
+      "tried": 3,
+      "filled": 3,
       "remaining": 0
     },
     "香川県技師会の予定表": {
@@ -264,7 +268,7 @@
       "last_ok": "2026-11-18"
     },
     "MR認定研究会・セミナー": {
-      "listed": 20,
+      "listed": 21,
       "last_ok": "2026-11-18"
     },
     "精中機構の講習会": {
@@ -272,8 +276,8 @@
       "last_ok": "2026-11-18"
     },
     "技師会の研修一覧": {
-      "listed": 44,
-      "upcoming": 38,
+      "listed": 45,
+      "upcoming": 39,
       "last_ok": "2026-11-18"
     },
     "香川県技師会のお知らせ(別枠)": {
