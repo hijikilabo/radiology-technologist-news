@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-18T08:37+09:00",
-  "added": 1,
+  "checked_at": "2026-11-18T10:23+09:00",
+  "added": 2,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -12,7 +12,7 @@
       "last_ok": "2026-11-18"
     },
     "日本放射線技術学会": {
-      "listed": 44,
+      "listed": 46,
       "picked": 5,
       "last_ok": "2026-11-18"
     },
@@ -27,7 +27,7 @@
       "last_ok": "2026-11-18"
     },
     "厚生労働省": {
-      "listed": 109,
+      "listed": 111,
       "picked": 2,
       "last_ok": "2026-11-18"
     },
@@ -251,7 +251,7 @@
     },
     "要約": {
       "tried": 1,
-      "filled": 1,
+      "filled": 0,
       "remaining": 0
     },
     "香川県技師会の予定表": {
@@ -293,8 +293,8 @@
       "items": 0
     },
     "不調の通知": {
-      "result": "not-configured",
-      "items": 1
+      "result": "no-items",
+      "items": 0
     }
   }
 }

@@ -1,7 +1,14 @@
 {
- "checked_at": "2026-11-18T08:37+09:00",
+ "checked_at": "2026-11-18T10:23+09:00",
  "recruit_url": "https://kagawart.jp/recruit/",
  "news": [
+  {
+   "headline": "2026 年度 日本放射線技術学会 中国・四国支部セミナー",
+   "url": "https://kagawart.jp/article/data.php?nid=512",
+   "date": "2026-11-18",
+   "source": "香川県診療放射線技師会",
+   "category": "教育"
+  },
   {
    "headline": "「令和８年度第３回消化管部会」開催のお知らせ",
    "url": "https://kagawart.jp/article/data.php?nid=510",
@@ -57,13 +64,6 @@
    "date": "2026-10-01",
    "source": "香川県診療放射線技師会",
    "category": "教育"
-  },
-  {
-   "headline": "厚生労働省より「医療情報システム安全管理ガイドライン対応研修プログラム」のご案内",
-   "url": "https://kagawart.jp/article/data.php?nid=506",
-   "date": "2026-10-01",
-   "source": "香川県診療放射線技師会",
-   "category": "安全管理"
   }
  ],
  "recruit": [
