@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-11-18",
+    "category": "MRI",
+    "importance": "中",
+    "headline": "CMRカンファレンス ～Gd造影剤の新たな選択肢～",
+    "summary": "",
+    "why": "",
+    "source": "MRIfan.net",
+    "url": "https://mrifan.net/blog/23290",
+    "track": "official",
+    "summary_tried": "2026-11-19"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "放射線治療",
+    "importance": "低",
+    "headline": "Synaptiq、AIによる腫瘍と臓器の輪郭描出を統合し、放射線治療計画を迅速化 - Unite.AI",
+    "summary": "Synaptiqは、Mediq RTプラットフォームにより、AIを活用した腫瘍の輪郭描出とリスク臓器の輪郭描出を、単一の放射線治療計画ワークフローに統合している。",
+    "why": "",
+    "source": "Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3RrUmtLX0tEWUwzVk1VN0ptV19uZkNBM1RFTnRmWld5ZWZOV1VzNUVZM01uWlhRT0FYdWpWZWtHY0pia0duVEYwVVhDZ1Nfel9UbkhBM2gtNEpBWVhQSEV6c0VDdnFfdVNGRjlvdkpJU2ZFN2N5VExrYndJZGxWM2FmTVRLd0NE?oc=5",
+    "track": "general",
+    "summary_tried": "2026-11-19"
+  },
+  {
+    "date": "2026-11-18",
     "category": "教育",
     "importance": "中",
     "headline": "［案内板］2026医学物理士になろう講演会",
@@ -2395,32 +2419,5 @@
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zeDlBczA4YkVDQllhOWY0b25ra0NkRGxXVkljem00ZEVrSGtDSFNDX29pQ1E0U05jR1l3Mi1sS2xPVk5mcXlsaWxIRGo4N3QxdkpWTUl6c1hUX2RRTWJpTXZ5TWY3dw?oc=5",
     "track": "general",
     "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-21",
-    "category": "その他",
-    "importance": "中",
-    "headline": "【お詫び】メールマガジン本文中のリンク(URL)からページが開かない現象について - 日本診療放射線技師会",
-    "summary": "JARTIS更新に伴い、年会費を納入済みの一部会員に発生したeラーニング視聴不具合について、お詫びと復旧をご報告します。あわせて、年会費の納入状況による会員サービスの利用制限と、納入状況の確認方法をご案内します。",
-    "why": "会員ページやeラーニングを使う予定があれば、止まる時間や再開の時期を確認しておきましょう。",
-    "source": "日本診療放射線技師会",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUDRrQTNIaEVjSWotSmZrd3VXQThJQzhWc3RXdlYtZkhKUndNbHhHUG4tczlNcEFFTUlLOWRodnN5Uk11TFgtSUhrSUlxN0hPRmFv?oc=5",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-21",
-    "category": "職能",
-    "importance": "中",
-    "headline": "告示研修（実技研修）東京都2027/1/9 - 日本診療放射線技師会",
-    "summary": "医政発0709第7号に基づく業務範囲の見直しに伴う告示研修（実技研修）です。告示研修（基礎研修）修了者が対象です。開催地：国立がん研究センター中央病院。日本診療放射線技師会（JART）が実施します。",
-    "why": "業務範囲の拡大に伴う告示研修です。未受講なら日程と申込方法を確認しておきましょう。",
-    "source": "日本診療放射線技師会",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc3pHcTFrNlJrN1Z6eUFPYXNPOGxLWTdpdlVGSXNNUU1hc0FIeDlKSkhuQnp2TFl2M1JjQjQwRVZ1OUtVaHhRck9acEZTemkwVWZWZUhjOENmd096ajZ6VTJQaFdOSGExOWJQWGpNa0tLV2VVMVY4MEw0T1hRZ1d0TENVMGtrVzdSVWE2Qm5BWDRaazlmN183Zkl5MjlpWUlvZ1VFbkU5Ql9DRHdXU3ZoSXk5aXlmZlcxeFZjSXdCMEwtLTlEdHBIci16U1ZGaEkt?oc=5",
-    "track": "official",
-    "summary_tried": "2026-11-03",
-    "event_date": "2027-01-09",
-    "event_kind": "開催",
-    "event_place": "東京"
   }
 ]
