@@ -1,5 +1,23 @@
 [
  {
+  "date": "2026-10-23",
+  "category": "安全管理",
+  "importance": "高",
+  "headline": "医療被ばく低減施設に認定 敦賀市立敦賀病院、嶺南地域で初 - 47NEWS",
+  "summary": "市立敦賀病院（敦賀市）が、日本診療放射線技師会の「医療被ばく低減施設」に認定された。県内では、県立病院（福井市）に続いて2院目で、嶺南地域では初めて。被ばく量を最小限に抑え、質の高い放射線医療サービ ...",
+  "why": "線量管理やDRLとの比較の考え方を見直すきっかけになります。",
+  "source": "47NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yYWRsbE8td1pSYk5mVU9DaDF0SGFDZnl2Ui0wVzF3Z0p1dF9JRGhET1poMl8xQk5YanFLNHdHOThSbktGbTB4b0ljUQ?oc=5",
+  "track": "official",
+  "also": [
+   {
+    "source": "中日新聞Web",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9veWJEcjg5bjQ2bGsxSEJvZzlHbV8tR2lhdWFua2NXWDg5Unl0UWg0cUlLZldWWWx2MDZQbklsV2FZYW9WYUFmTzRMWnVQUGNHZ2Z0Xw?oc=5"
+   }
+  ],
+  "summary_tried": "2026-11-03"
+ },
+ {
   "date": "2026-10-22",
   "category": "教育",
   "importance": "低",
