@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T13:17+09:00",
+  "checked_at": "2026-11-19T22:31+09:00",
   "added": 1,
   "total": 200,
   "sources": {
@@ -27,7 +27,7 @@
       "last_ok": "2026-11-19"
     },
     "厚生労働省": {
-      "listed": 108,
+      "listed": 119,
       "picked": 2,
       "last_ok": "2026-11-19"
     },
@@ -62,9 +62,10 @@
       "last_ok": "2026-11-19"
     },
     "徳島県診療放射線技師会": {
-      "listed": 5,
-      "picked": 0,
-      "last_ok": "2026-11-19"
+      "error": "URLError: <urlopen error timed out>",
+      "last_ok": "2026-11-19",
+      "failing_since": "2026-11-19",
+      "failing_days": 1
     },
     "高知県診療放射線技師会": {
       "listed": 165,

@@ -30,6 +30,18 @@
   "summary_tried": "2026-11-03"
  },
  {
+  "date": "2026-10-22",
+  "category": "安全管理",
+  "importance": "中",
+  "headline": "【重要】「JARTIS」の一時閉鎖について (PHP脆弱性対応) - 日本診療放射線技師会",
+  "summary": "JARTISが外部連携サービスetudesのPHPの脆弱性対応のため一時閉鎖中です。サービス再開の見通しは順次お知らせいたします。ご理解とご協力をお願いいたします。",
+  "why": "会員ページやeラーニングを使う予定があれば、止まる時間や再開の時期を確認しておきましょう。",
+  "source": "日本診療放射線技師会",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMUNXUkQtdFhMdFpuaFhVSG1SN0tYMkRCOUY0MTA3QTdLc01WbkV5emVyN0xTQ29hUF9ZbTRhUzlCVHA3UVFkdUFvb2FGdUEycVE?oc=5",
+  "track": "official",
+  "summary_tried": "2026-11-03"
+ },
+ {
   "date": "2026-10-21",
   "category": "教育",
   "importance": "低",

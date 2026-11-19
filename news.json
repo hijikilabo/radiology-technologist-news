@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-19",
+    "category": "AI",
+    "importance": "低",
+    "headline": "Imagen、放射線科医とAI分野向けの成長資金として1億ドル超を調達 - Unite.AI",
+    "summary": "Imagen Technologiesは2026年11月18日、2026年に成長資金として1億ドル超を調達し、AIモデルの学習に使用する追加の画像検査データ最大1億5,000万件への権利を確保したと発表した。",
+    "why": "",
+    "source": "Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEJFLUV6a3BiNi1yWWFWS01HSjZQOVN4UmdYbDNQOGg0YXNoZ1dVV3VQV1BSdHB6MDhRSGNOU3NJSU9vNmJLTDVtS3FwNDVaaHJfblRYODRoYlpjTG8tT1JtU3R4dlZpZks0VER2ZUQzeGJJcExXV215TTBtLTlxcS1TT0p5YUdaLURJbFlFd2FSTlFX?oc=5",
+    "track": "official",
+    "summary_tried": "2026-11-19"
+  },
+  {
     "date": "2026-11-17",
     "category": "検診",
     "importance": "中",
@@ -2400,18 +2412,6 @@
     "source": "日本医学放射線学会",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yT01jTlU5eGl2Y1ZZeHlYQTJVWWxUSXl1R2VfWDdvOFZtdFRraUVPak9kWEhWWUp5X01XS2g4bk9BV1l6RV9tTHNrQXh3d0daTy04S2xRUmlGenZVb0V4aXBqSTZsdDNLcU02QUp5Yw?oc=5",
     "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-22",
-    "category": "安全管理",
-    "importance": "中",
-    "headline": "【重要】「JARTIS」の一時閉鎖について (PHP脆弱性対応) - 日本診療放射線技師会",
-    "summary": "JARTISが外部連携サービスetudesのPHPの脆弱性対応のため一時閉鎖中です。サービス再開の見通しは順次お知らせいたします。ご理解とご協力をお願いいたします。",
-    "why": "会員ページやeラーニングを使う予定があれば、止まる時間や再開の時期を確認しておきましょう。",
-    "source": "日本診療放射線技師会",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zMUNXUkQtdFhMdFpuaFhVSG1SN0tYMkRCOUY0MTA3QTdLc01WbkV5emVyN0xTQ29hUF9ZbTRhUzlCVHA3UVFkdUFvb2FGdUEycVE?oc=5",
-    "track": "official",
     "summary_tried": "2026-11-03"
   }
 ]
