@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-20T08:09+09:00",
-  "added": 10,
+  "checked_at": "2026-11-20T09:59+09:00",
+  "added": 0,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -62,9 +62,10 @@
       "last_ok": "2026-11-20"
     },
     "徳島県診療放射線技師会": {
-      "listed": 5,
-      "picked": 0,
-      "last_ok": "2026-11-20"
+      "error": "URLError: <urlopen error timed out>",
+      "last_ok": "2026-11-20",
+      "failing_since": "2026-11-20",
+      "failing_days": 1
     },
     "高知県診療放射線技師会": {
       "listed": 165,
@@ -172,7 +173,7 @@
       "rss_items": 9,
       "contents_items": 6,
       "listed": 11,
-      "added": 5,
+      "added": 0,
       "last_ok": "2026-11-20"
     },
     "日本消化器がん検診学会雑誌": {
@@ -248,8 +249,8 @@
       "last_ok": "2026-11-20"
     },
     "要約": {
-      "tried": 10,
-      "filled": 1,
+      "tried": 0,
+      "filled": 0,
       "remaining": 0
     },
     "香川県技師会の予定表": {
