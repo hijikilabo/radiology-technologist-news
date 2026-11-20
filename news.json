@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-11-20",
+    "category": "マンモグラフィ",
+    "importance": "低",
+    "headline": "【元モー娘。飯田圭織】「45歳!! 今年も人間ドック全般 婦人科検診 乳がん検診 胃 大腸 内視鏡検査 受けてきました!!」 - ライブドアニュース",
+    "summary": "元モーニング娘。の飯田圭織さんが11月20日、自身の公式インスタグラムを更新。人間ドックを受けたことを報告しました。 【写真を見る】【元モー娘。",
+    "why": "",
+    "source": "ライブドアニュース",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qaDJTZFkzODNRdGJqSlQ2QmI5MmpLV2RJaG1uOXFkWGFFZFdlMFptbHFoUVRxQnhlUm9rbEJucTFaUW9qaU56ZnNRcEtleTB3TzJhYm4wTHNEVXFXNFVN?oc=5",
+    "track": "general",
+    "summary_tried": "2026-11-21"
+  },
+  {
+    "date": "2026-11-20",
     "category": "学術",
     "importance": "中",
     "headline": "［会告］第55回日本放射線技術学会秋季学術大会の開催",
@@ -2400,18 +2412,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHZBRlh2cGxTZzhETkZ6UTlXbjAwX3FvYUV4c1JzR0NEbkpUTXRQNEhvRkhlWDZoc251TkQyLWFvcDBNdlZrcFNKd0IydktqRTdndGdIWlJRMkZBdVpreVZwVjdrdlBUZW5McWlzSU5Sbm8yRmMxaUpIOV9iN0t6NnRwRWRXUXc?oc=5"
       }
     ],
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-25",
-    "category": "その他",
-    "importance": "低",
-    "headline": "EIZO、医用画像表示モニター2機種を発売へ 24.1型と27型 - Dellows News",
-    "summary": "石川県白山市に本社を置くEIZO株式会社（代表取締役社長 恵比寿 正樹）は、医用画像表示モニターの新製品として、24.1型の「RadiForce MX247W」を2026年12月24日に、27型の「R…",
-    "why": "",
-    "source": "Dellows News",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16T182d3QwYklsY0w2Q2dyc0UyZ04xeU5xQXI1SHFKNm1sOXA5bHRRQ3IwZHdlUHVnT1J0TzNodGN2ZDRucGc?oc=5",
-    "track": "general",
     "summary_tried": "2026-11-03"
   }
 ]
