@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-21T13:08+09:00",
-  "added": 1,
+  "checked_at": "2026-11-21T21:50+09:00",
+  "added": 0,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -62,9 +62,10 @@
       "last_ok": "2026-11-21"
     },
     "徳島県診療放射線技師会": {
-      "listed": 5,
-      "picked": 0,
-      "last_ok": "2026-11-21"
+      "error": "URLError: <urlopen error timed out>",
+      "last_ok": "2026-11-21",
+      "failing_since": "2026-11-21",
+      "failing_days": 1
     },
     "高知県診療放射線技師会": {
       "listed": 165,
@@ -77,14 +78,13 @@
       "last_ok": "2026-11-21"
     },
     "日本放射線腫瘍学会": {
-      "error": "URLError: <urlopen error timed out>",
-      "last_ok": "2026-11-21",
-      "failing_since": "2026-11-21",
-      "failing_days": 1
+      "listed": 33,
+      "picked": 3,
+      "last_ok": "2026-11-21"
     },
     "日本医学物理学会": {
       "listed": 10,
-      "picked": 2,
+      "picked": 1,
       "last_ok": "2026-11-21"
     },
     "日本磁気共鳴医学会": {
@@ -93,10 +93,9 @@
       "last_ok": "2026-11-21"
     },
     "日本IVR学会": {
-      "error": "URLError: <urlopen error timed out>",
-      "last_ok": "2026-11-21",
-      "failing_since": "2026-11-21",
-      "failing_days": 1
+      "listed": 10,
+      "picked": 0,
+      "last_ok": "2026-11-21"
     },
     "日本超音波医学会": {
       "listed": 10,
@@ -139,10 +138,9 @@
       "last_ok": "2026-11-21"
     },
     "日本X線CT専門技師認定機構": {
-      "error": "URLError: <urlopen error timed out>",
-      "last_ok": "2026-11-21",
-      "failing_since": "2026-11-21",
-      "failing_days": 1
+      "listed": 82,
+      "picked": 3,
+      "last_ok": "2026-11-21"
     },
     "日本乳癌学会": {
       "listed": 10,
@@ -251,8 +249,8 @@
       "last_ok": "2026-11-21"
     },
     "要約": {
-      "tried": 1,
-      "filled": 1,
+      "tried": 0,
+      "filled": 0,
       "remaining": 0
     },
     "香川県技師会の予定表": {
