@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T06:58+09:00",
+  "checked_at": "2026-11-23T08:56+09:00",
   "added": 0,
   "total": 200,
   "sources": {
@@ -172,8 +172,8 @@
     "日本放射線技術学会雑誌": {
       "feed_entries": 9,
       "rss_items": 9,
-      "listed": 9,
-      "warning": "目次: HTTP Error 502: Bad Gateway",
+      "contents_items": 6,
+      "listed": 11,
       "added": 0,
       "last_ok": "2026-11-23"
     },
@@ -186,56 +186,58 @@
       "last_ok": "2026-11-23"
     },
     "日本乳癌検診学会誌": {
-      "error": "RSS: HTTP Error 502: Bad Gateway; 目次: HTTP Error 502: Bad Gateway",
-      "last_ok": "2026-11-22",
-      "failing_since": "2026-11-23",
-      "failing_days": 1
+      "feed_entries": 0,
+      "rss_items": 0,
+      "contents_items": 29,
+      "listed": 29,
+      "added": 0,
+      "last_ok": "2026-11-23"
     },
     "日本磁気共鳴医学会雑誌": {
       "feed_entries": 0,
       "rss_items": 0,
-      "listed": 0,
-      "warning": "目次: HTTP Error 502: Bad Gateway",
-      "empty_ok": true,
+      "contents_items": 13,
+      "listed": 13,
       "added": 0,
       "last_ok": "2026-11-23"
     },
     "医学物理": {
+      "feed_entries": 0,
+      "rss_items": 0,
       "contents_items": 7,
       "listed": 7,
-      "warning": "RSS: HTTP Error 502: Bad Gateway",
       "added": 0,
       "last_ok": "2026-11-23"
     },
     "核医学": {
       "feed_entries": 10,
       "rss_items": 0,
-      "listed": 0,
-      "warning": "目次: HTTP Error 502: Bad Gateway",
-      "empty_ok": true,
+      "contents_items": 10,
+      "listed": 10,
       "added": 0,
       "last_ok": "2026-11-23"
     },
     "医用画像情報学会雑誌": {
+      "feed_entries": 0,
+      "rss_items": 0,
       "contents_items": 5,
       "listed": 5,
-      "warning": "RSS: HTTP Error 502: Bad Gateway",
       "added": 0,
       "last_ok": "2026-11-23"
     },
     "Medical Imaging Technology": {
       "feed_entries": 0,
       "rss_items": 0,
-      "listed": 0,
-      "warning": "目次: HTTP Error 502: Bad Gateway",
-      "empty_ok": true,
+      "contents_items": 5,
+      "listed": 5,
       "added": 0,
       "last_ok": "2026-11-23"
     },
     "日本インターベンショナルラジオロジー学会雑誌": {
+      "feed_entries": 0,
+      "rss_items": 0,
       "contents_items": 7,
       "listed": 7,
-      "warning": "RSS: HTTP Error 502: Bad Gateway",
       "added": 0,
       "last_ok": "2026-11-23"
     },
@@ -291,8 +293,8 @@
       "items": 0
     },
     "不調の通知": {
-      "result": "not-configured",
-      "items": 1
+      "result": "no-items",
+      "items": 0
     }
   }
 }
