@@ -1,6 +1,18 @@
 [
   {
     "date": "2026-11-22",
+    "category": "放射線治療",
+    "importance": "低",
+    "headline": "がん医療、放射線治療の普及を 「協働意思決定」の必要性訴え 秋大病院・和田医師が都内で講演 - 47NEWS",
+    "summary": "医療技術の進歩でがん治療の選択肢が広がる中、患者自らが納得して治療法を選べる環境づくりについて学ぶセミナーが都内で行われた。和田優貴・秋田大学医学部付属病院准教授（３９）＝放射線治療科＝が進歩する放 ...",
+    "why": "",
+    "source": "47NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIdUotVGZFUGhyMThCY25wTG1OSDdTSjV4NW1hazBJSnhUTGJGME8tN2xMSGo4ay0xX3hJM1Rrb09Gem4yMnpOZWJyQQ?oc=5",
+    "track": "general",
+    "summary_tried": "2026-11-22"
+  },
+  {
+    "date": "2026-11-22",
     "category": "診療報酬・補助金",
     "importance": "高",
     "headline": "新規開業クリニックにも広がる遠隔画像診断――専門医連携と診療報酬制度が導入の決め手に｜嗣江建栄 - mbp-japan.com",
@@ -2387,18 +2399,6 @@
     "why": "",
     "source": "日経メディカル",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3h6b3JHVTdiT3kzeDdBY3dyY2NtakFXWTNOWWtJNUZrR1JkaFZYMDIwMFJlQ0RGYXRyXzA1amN2aHNPZ09IamlpR2FaVGU1YmhJU1FtMGVPRDgxdW0tdTFnUEl5VFI0d2lZd2ZSLXJpRjdObDdoZXlDdjF2dy1CdG1pV2t0ajU4?oc=5",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-26",
-    "category": "放射線治療",
-    "importance": "低",
-    "headline": "局所進行直腸癌の術前療法で短期放射線療法＋抗PD-1抗体camrelizumab＋CAPOXは長期化学放射線療法＋CAPOXよりもEFSを有意に延長【ESMO 2026】 - 日経メディカル",
-    "summary": "局所進行直腸癌に対する術前療法で、短期放射線療法（SCRT）＋抗PD-1抗体camrelizumab＋CAPOXは、長期化学放射線療法（LCCRT）＋CAPOXよりも無イベント生存期間（EFS）を有意に延長できたことが分かった。中国で行われたフェーズ3試験であるUNION試験の結…",
-    "why": "",
-    "source": "日経メディカル",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGd5RktMUG1aemdSb3Z4dDRLQTNVUG1ZRlVhSTl4QnBEZFhwNTd1dUxwaGl1TlJ0V3lQZzZxZE9JNmZsM3p5R2lhY3luWGVLdGRCU1dUZ21zRTM0c3JYRURsTXNJSG1LX2loU0xTdzVEdzA5WE1ZUUZ6allpQ0RFUjVMQzc1cHoz?oc=5",
     "track": "general",
     "summary_tried": "2026-11-03"
   }
