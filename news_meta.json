@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-24T12:00+09:00",
+  "checked_at": "2026-11-24T13:07+09:00",
   "added": 2,
   "total": 200,
   "sources": {
@@ -62,10 +62,9 @@
       "last_ok": "2026-11-24"
     },
     "徳島県診療放射線技師会": {
-      "error": "URLError: <urlopen error timed out>",
-      "last_ok": "2026-11-23",
-      "failing_since": "2026-11-24",
-      "failing_days": 1
+      "listed": 5,
+      "picked": 0,
+      "last_ok": "2026-11-24"
     },
     "高知県診療放射線技師会": {
       "listed": 165,
@@ -84,7 +83,7 @@
     },
     "日本医学物理学会": {
       "listed": 10,
-      "picked": 1,
+      "picked": 0,
       "last_ok": "2026-11-24"
     },
     "日本磁気共鳴医学会": {
@@ -250,7 +249,7 @@
     },
     "要約": {
       "tried": 2,
-      "filled": 2,
+      "filled": 0,
       "remaining": 0
     },
     "香川県技師会の予定表": {
@@ -288,8 +287,8 @@
       "last_ok": "2026-11-24"
     },
     "メール通知": {
-      "result": "no-items",
-      "items": 0
+      "result": "not-configured",
+      "items": 2
     },
     "不調の通知": {
       "result": "no-items",
