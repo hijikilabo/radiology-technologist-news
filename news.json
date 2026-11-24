@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-11-24",
+    "category": "検診",
+    "importance": "中",
+    "headline": "一般社団法人日本消化器がん検診学会定款の一部改正について",
+    "summary": "３ 代議員を選出するため、正会員による代議員選挙を行う。代議員選挙を行うために必要な細則は理事会において定める。",
+    "why": "",
+    "source": "日本消化器がん検診学会",
+    "url": "https://www.jsgcs.or.jp/news/archives/1157",
+    "track": "general",
+    "summary_tried": "2026-11-24"
+  },
+  {
+    "date": "2026-11-24",
+    "category": "放射線治療",
+    "importance": "低",
+    "headline": "Ⅱ期前立腺がんの70代男性、抗凝固剤を服用中で放射線療法の合併症が心配　がん電話相談から - Infoseek",
+    "summary": "今回は、Ⅱ期前立腺がんと診断された70代男性からの相談です。血栓を防ぐ薬を服用中でリスクを避けるため手術ではなく、…",
+    "why": "",
+    "source": "Infoseek",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjVVcUFYUE02NFhPQTVsT2c4TWFuaGVSWlVzcUVMemtINWtTV0xoanlQMW15RWVSODlWNHZRNlRYSWJDX2NLMmw1M0tHcVc2ZlhKVHNiNG45UWFDQmFmdVp2VUtVWTIyWjZ6el83WWlOMHQ0TGdTcVhuSnllMlBGZGYzcWNLMlM5R2lRTGdETdIBjwFBVV95cUxPYjVVcUFYUE02NFhPQTVsT2c4TWFuaGVSWlVzcUVMemtINWtTV0xoanlQMW15RWVSODlWNHZRNlRYSWJDX2NLMmw1M0tHcVc2ZlhKVHNiNG45UWFDQmFmdVp2VUtVWTIyWjZ6el83WWlOMHQ0TGdTcVhuSnllMlBGZGYzcWNLMlM5R2lRTGdETQ?oc=5",
+    "track": "general",
+    "summary_tried": "2026-11-24"
+  },
+  {
     "date": "2026-11-23",
     "category": "AI",
     "importance": "低",
@@ -2375,30 +2399,6 @@
     "why": "自分の検査で同じ確認漏れが起きないか、問診やチェックの手順を見直すきっかけにしましょう。",
     "source": "日本医療機能評価機構",
     "url": "https://www.med-safe.jp/pdf/med-safe_239.pdf",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-27",
-    "category": "安全管理",
-    "importance": "高",
-    "headline": "医療安全情報 No.236：パニック値の連絡を受けた後の対応漏れ",
-    "summary": "",
-    "why": "自分の検査で同じ確認漏れが起きないか、問診やチェックの手順を見直すきっかけにしましょう。",
-    "source": "日本医療機能評価機構",
-    "url": "https://www.med-safe.jp/pdf/med-safe_236.pdf",
-    "track": "official",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-27",
-    "category": "安全管理",
-    "importance": "高",
-    "headline": "医療安全情報 No.225：「既読」の画像診断報告書の重要所見への未対応",
-    "summary": "",
-    "why": "自分の検査で同じ確認漏れが起きないか、問診やチェックの手順を見直すきっかけにしましょう。",
-    "source": "日本医療機能評価機構",
-    "url": "https://www.med-safe.jp/pdf/med-safe_225.pdf",
     "track": "official",
     "summary_tried": "2026-11-03"
   }
