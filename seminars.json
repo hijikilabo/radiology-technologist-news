@@ -1,6 +1,17 @@
 {
- "checked_at": "2026-11-24T13:07+09:00",
+ "checked_at": "2026-11-24T16:00+09:00",
  "items": [
+  {
+   "title": "告示研修（基礎研修）",
+   "url": "https://www.jart.jp/seminar/notification-training-basic",
+   "kind": "告示研修",
+   "status": "申込み可",
+   "event_start": "2021-07-31",
+   "event_end": "2027-04-30",
+   "apply_start": "2021-07-31",
+   "apply_end": "2027-03-31",
+   "place": ""
+  },
   {
    "title": "人を対象とする生命科学・医学系研究に関する倫理指針オンラインセミナー",
    "url": "https://www.jart.jp/seminar/ethics-guidelines-seminar",
@@ -211,6 +222,17 @@
    "apply_start": "2026-10-07",
    "apply_end": "2026-11-30",
    "place": "JART"
+  },
+  {
+   "title": "2026年度第2回放射線取扱主任者定期講習(12/18)",
+   "url": "https://www.jart.jp/seminar/radiation-handler-periodic-training-2026-2nd",
+   "kind": "放射線取扱主任者定期講習",
+   "status": "申込み可",
+   "event_start": "2026-12-18",
+   "event_end": "2026-12-18",
+   "apply_start": "2026-06-08",
+   "apply_end": "2026-12-04",
+   "place": "東京都"
   },
   {
    "title": "第30回MR実践・先端講座開催のお知らせ",
