@@ -1,5 +1,17 @@
 [
   {
+    "date": "2026-11-25",
+    "category": "マンモグラフィ",
+    "importance": "中",
+    "headline": "リキッドバイオプシー等を用いた「乳がん早期発見」に関する 広告等の表示について",
+    "summary": "日本乳癌学会は日本乳癌検診学会とともに、リキッドバイオプシー等を用いた「乳がん早期発見」に関する広告等の表示に関する見解をとりまとめ、共同で公表いたしましたのでお知らせいたします。",
+    "why": "",
+    "source": "日本乳癌学会",
+    "url": "https://www.jbcs.gr.jp/modules/info/index.php?content_id=318",
+    "track": "general",
+    "summary_tried": "2026-11-25"
+  },
+  {
     "date": "2026-11-24",
     "category": "検診",
     "importance": "低",
@@ -2385,18 +2397,6 @@
     "why": "",
     "source": "日本超音波医学会",
     "url": "https://www.jsum.or.jp/members/news/20261015/?utm_source=rss&utm_medium=rss&utm_campaign=20261015",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-20",
-    "category": "学術",
-    "importance": "中",
-    "headline": "学会誌64巻Suppl（第64回大会抄録号）が公開されました。",
-    "summary": "学会誌64巻Suppl（第64回大会抄録号）がKaLibとJ-STAGEで公開されました。 詳細は こちら をご参照ください。",
-    "why": "",
-    "source": "日本消化器がん検診学会",
-    "url": "https://www.jsgcs.or.jp/news/archives/1146",
     "track": "general",
     "summary_tried": "2026-11-03"
   }
