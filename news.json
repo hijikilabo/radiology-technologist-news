@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-11-25",
+    "category": "安全管理",
+    "importance": "高",
+    "headline": "医療機器の回収(クラスII)：(1)診断用X線装置 RADspeed Pro (2)診断用X線装置 FUJIFILM DR BENEO-Fx (3)天井走行式X線管懸垂器 CH-200((1)〜(2)据置型デジタル式汎用X線診断装置,(3)天井取り付け式X線管支持器)",
+    "summary": "株式会社島津製作所",
+    "why": "自施設に該当する機器・薬剤がないか確認しておきましょう。",
+    "source": "PMDA",
+    "url": "https://www.info.pmda.go.jp/rgo/MainServlet?recallno=2-13057",
+    "track": "official"
+  },
+  {
+    "date": "2026-11-25",
+    "category": "放射線治療",
+    "importance": "低",
+    "headline": "アイラト，「がん放射線治療を支える『治療計画』の課題と医療AIのこれから」をテーマに記者向け勉強会を開催 - インナビネット",
+    "summary": "東北大学医学部発のスタートアップであるアイラト（株）は，2026年11月20日（金），同社東京オフィス（東京都港区）において，報道関係者を対象とした勉強会「がん放射線治療を支える『治療計画』の課題と医療AIのこれから」を開催した。",
+    "why": "",
+    "source": "インナビネット",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KMjJiVWdNeGxPUXQzOUdtSFFQRGs0bFpaTHM5NkNBaVNlUnNRUGNBU193Zi1TNTN5cW9qaDV1UXNudkViOG8tZV90OWx0TXhVY2UyNUxLYTJXd0toWWdaeg?oc=5",
+    "track": "general",
+    "summary_tried": "2026-11-25"
+  },
+  {
+    "date": "2026-11-25",
     "category": "マンモグラフィ",
     "importance": "中",
     "headline": "リキッドバイオプシー等を用いた「乳がん早期発見」に関する 広告等の表示について",
@@ -2373,30 +2396,6 @@
     "why": "",
     "source": "日本超音波医学会",
     "url": "https://www.jsum.or.jp/members/news/20261016/?utm_source=rss&utm_medium=rss&utm_campaign=20261016",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-15",
-    "category": "超音波",
-    "importance": "中",
-    "headline": "第100回学術集会 演題募集開始のお知らせ",
-    "summary": "2027年5月28日（金）～5月30日（日）に、大宮ソニックシティ（さいたま市大宮区）にて開催される日本超音波…",
-    "why": "",
-    "source": "日本超音波医学会",
-    "url": "https://www.jsum.or.jp/members/news/20261015-2/?utm_source=rss&utm_medium=rss&utm_campaign=20261015-2",
-    "track": "general",
-    "summary_tried": "2026-11-03"
-  },
-  {
-    "date": "2026-10-15",
-    "category": "超音波",
-    "importance": "中",
-    "headline": "「超音波診断講習会（消化器）」開催のご案内",
-    "summary": "超音波診断講習会（消化器）開催のご案内を掲載しました。多くの皆様のご参加をお待ちしております。 超音波診断講習…",
-    "why": "",
-    "source": "日本超音波医学会",
-    "url": "https://www.jsum.or.jp/members/news/20261015/?utm_source=rss&utm_medium=rss&utm_campaign=20261015",
     "track": "general",
     "summary_tried": "2026-11-03"
   }

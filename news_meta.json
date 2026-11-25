@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-25T14:32+09:00",
-  "added": 0,
+  "checked_at": "2026-11-25T23:37+09:00",
+  "added": 2,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -27,7 +27,7 @@
       "last_ok": "2026-11-25"
     },
     "厚生労働省": {
-      "listed": 117,
+      "listed": 118,
       "picked": 1,
       "last_ok": "2026-11-25"
     },
@@ -158,8 +158,8 @@
       "last_ok": "2026-11-25"
     },
     "PMDA回収クラスII": {
-      "listed": 30,
-      "picked": 2,
+      "listed": 31,
+      "picked": 3,
       "last_ok": "2026-11-25"
     },
     "造影剤の供給状況": {
@@ -248,8 +248,8 @@
       "last_ok": "2026-11-25"
     },
     "要約": {
-      "tried": 0,
-      "filled": 0,
+      "tried": 1,
+      "filled": 1,
       "remaining": 0
     },
     "香川県技師会の予定表": {
@@ -287,8 +287,8 @@
       "last_ok": "2026-11-25"
     },
     "メール通知": {
-      "result": "no-items",
-      "items": 0
+      "result": "not-configured",
+      "items": 1
     },
     "不調の通知": {
       "result": "no-items",
