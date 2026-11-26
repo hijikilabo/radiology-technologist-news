@@ -378,6 +378,18 @@
   "summary_tried": "2026-11-03"
  },
  {
+  "date": "2026-10-22",
+  "category": "安全管理",
+  "importance": "中",
+  "headline": "PHP脆弱性に関するお知らせ",
+  "summary": "平素より本会の活動にご理解とご協力を賜り、誠にありがとうございます。 現在報道されております、PHPの脆弱性につきまして、本会ホームページへの影響はなく、安全にご利用いただけることを確認しております。",
+  "why": "会員ページやeラーニングを使う予定があれば、止まる時間や再開の時期を確認しておきましょう。",
+  "source": "香川県診療放射線技師会",
+  "url": "https://kagawart.jp/article/data.php?nid=508",
+  "track": "official",
+  "summary_tried": "2026-11-04"
+ },
+ {
   "date": "2026-10-21",
   "category": "教育",
   "importance": "低",
@@ -609,6 +621,18 @@
   "summary_tried": "2026-11-03"
  },
  {
+  "date": "2026-10-17",
+  "category": "教育",
+  "importance": "中",
+  "headline": "「令和８年度 第１回RI部会」開催のお知らせ",
+  "summary": "日時：令和8年11月12日（木）19:00～20:00 場所：回生病院 新館5F 大会議室+オンライン ZOOM ミーティングID: 836 1351 6051 パスコード: 146773 「令和8年度RI部会」をハイブリッドで開催いたします。",
+  "why": "",
+  "source": "香川県診療放射線技師会",
+  "url": "https://kagawart.jp/article/data.php?nid=487",
+  "track": "official",
+  "summary_tried": "2026-11-04"
+ },
+ {
   "date": "2026-10-16",
   "category": "安全管理",
   "importance": "高",
@@ -706,6 +730,18 @@
   "url": "https://www.jsum.or.jp/members/news/20261016/?utm_source=rss&utm_medium=rss&utm_campaign=20261016",
   "track": "general",
   "summary_tried": "2026-11-03"
+ },
+ {
+  "date": "2026-10-16",
+  "category": "教育",
+  "importance": "中",
+  "headline": "スキルアップセミナー開催のお知らせ",
+  "summary": "心電図の見方から始め、明日から使える知識を盛り込んだ、超ビギナー向けのセミナーです。",
+  "why": "",
+  "source": "香川県診療放射線技師会",
+  "url": "https://kagawart.jp/article/data.php?nid=495",
+  "track": "official",
+  "summary_tried": "2026-11-04"
  },
  {
   "date": "2026-10-15",
@@ -928,6 +964,18 @@
   "url": "https://www.jsmrm.jp/modules/news/index.php?content_id=758",
   "track": "general",
   "summary_tried": "2026-11-03"
+ },
+ {
+  "date": "2026-10-13",
+  "category": "教育",
+  "importance": "中",
+  "headline": "「第46回 さぬき美じょん」開催のお知らせ",
+  "summary": "第46回 さぬき美じょんを開催いたします。 座学と実技講習を組み合わせ、充実した内容となっておりますので、ぜひご参加ください。",
+  "why": "",
+  "source": "香川県診療放射線技師会",
+  "url": "https://kagawart.jp/article/data.php?nid=490",
+  "track": "official",
+  "summary_tried": "2026-11-04"
  },
  {
   "date": "2026-10-10",

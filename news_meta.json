@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T14:14+09:00",
+  "checked_at": "2026-11-26T23:04+09:00",
   "added": 4,
   "total": 200,
   "sources": {
@@ -27,7 +27,7 @@
       "last_ok": "2026-11-26"
     },
     "厚生労働省": {
-      "listed": 121,
+      "listed": 125,
       "picked": 1,
       "last_ok": "2026-11-26"
     },
@@ -92,9 +92,10 @@
       "last_ok": "2026-11-26"
     },
     "日本IVR学会": {
-      "listed": 10,
-      "picked": 0,
-      "last_ok": "2026-11-26"
+      "error": "URLError: <urlopen error timed out>",
+      "last_ok": "2026-11-26",
+      "failing_since": "2026-11-26",
+      "failing_days": 1
     },
     "日本超音波医学会": {
       "listed": 10,
@@ -152,14 +153,14 @@
       "last_ok": "2026-11-26"
     },
     "PMDA回収クラスI": {
-      "listed": 0,
-      "picked": 0,
-      "empty_ok": true,
-      "last_ok": "2026-11-26"
+      "error": "TimeoutError: The read operation timed out",
+      "last_ok": "2026-11-26",
+      "failing_since": "2026-11-26",
+      "failing_days": 1
     },
     "PMDA回収クラスII": {
-      "listed": 31,
-      "picked": 3,
+      "listed": 32,
+      "picked": 4,
       "last_ok": "2026-11-26"
     },
     "造影剤の供給状況": {
@@ -249,7 +250,7 @@
     },
     "要約": {
       "tried": 4,
-      "filled": 2,
+      "filled": 1,
       "remaining": 0
     },
     "香川県技師会の予定表": {
