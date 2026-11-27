@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-27T10:58+09:00",
+ "checked_at": "2026-11-27T14:11+09:00",
  "items": [
   {
    "title": "告示研修（基礎研修）",
@@ -168,7 +168,7 @@
    "title": "告示研修（実技研修）大阪府2026/12/12",
    "url": "https://www.jart.jp/seminar/告示研修実技研修大阪府2026/12/12",
    "kind": "告示研修",
-   "status": "申込み不可",
+   "status": "申込み可",
    "event_start": "2026-12-12",
    "event_end": "2026-12-12",
    "apply_start": "2026-09-29",
@@ -179,7 +179,7 @@
    "title": "告示研修（実技研修）大阪府2026/12/13",
    "url": "https://www.jart.jp/seminar/告示研修実技研修大阪府2026/12/13",
    "kind": "告示研修",
-   "status": "申込み不可",
+   "status": "申込み可",
    "event_start": "2026-12-13",
    "event_end": "2026-12-13",
    "apply_start": "2026-09-29",
@@ -313,6 +313,19 @@
    "apply_end": "",
    "place": "大阪",
    "category": "マンモグラフィ"
+  },
+  {
+   "title": "第103回西播画像研究会開催のお知らせ",
+   "url": "https://plaza.umin.ac.jp/~JMRTS/dl/nishiharima103kai.pdf",
+   "kind": "JMRTS",
+   "status": "",
+   "event_start": "2027-03-13",
+   "event_end": "2027-03-13",
+   "apply_start": "",
+   "apply_end": "",
+   "place": "",
+   "category": "MRI",
+   "source": "日本磁気共鳴専門技術者認定機構"
   },
   {
    "title": "第24回乳房超音波技術画像試験",
