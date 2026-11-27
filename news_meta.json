@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-27T09:42+09:00",
-  "added": 4,
+  "checked_at": "2026-11-27T10:58+09:00",
+  "added": 1,
   "total": 200,
   "sources": {
     "医療機能評価機構": {
@@ -27,7 +27,7 @@
       "last_ok": "2026-11-27"
     },
     "厚生労働省": {
-      "listed": 118,
+      "listed": 120,
       "picked": 1,
       "last_ok": "2026-11-27"
     },
@@ -172,7 +172,7 @@
       "rss_items": 7,
       "contents_items": 1,
       "listed": 7,
-      "added": 1,
+      "added": 0,
       "last_ok": "2026-11-27"
     },
     "日本消化器がん検診学会雑誌": {
@@ -248,8 +248,8 @@
       "last_ok": "2026-11-27"
     },
     "要約": {
-      "tried": 4,
-      "filled": 4,
+      "tried": 1,
+      "filled": 1,
       "remaining": 0
     },
     "香川県技師会の予定表": {
