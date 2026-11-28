@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-28T13:48+09:00",
+  "checked_at": "2026-11-28T22:16+09:00",
   "added": 0,
   "total": 200,
   "sources": {
@@ -32,9 +32,10 @@
       "last_ok": "2026-11-28"
     },
     "日本消化器がん検診学会": {
-      "listed": 43,
-      "picked": 5,
-      "last_ok": "2026-11-28"
+      "error": "URLError: <urlopen error _ssl.c:1018: The handshake operation timed out>",
+      "last_ok": "2026-11-28",
+      "failing_since": "2026-11-28",
+      "failing_days": 1
     },
     "日本磁気共鳴専門技術者認定機構": {
       "listed": 79,
@@ -57,9 +58,10 @@
       "last_ok": "2026-11-28"
     },
     "愛媛県診療放射線技師会": {
-      "listed": 1,
-      "picked": 0,
-      "last_ok": "2026-11-28"
+      "error": "HTTPError: HTTP Error 500: Internal Server Error",
+      "last_ok": "2026-11-28",
+      "failing_since": "2026-11-28",
+      "failing_days": 1
     },
     "徳島県診療放射線技師会": {
       "listed": 5,
@@ -257,8 +259,10 @@
       "last_ok": "2026-11-28"
     },
     "愛媛県技師会の行事予定": {
-      "listed": 1,
-      "last_ok": "2026-11-28"
+      "error": "HTTPError: HTTP Error 500: Internal Server Error",
+      "last_ok": "2026-11-28",
+      "failing_since": "2026-11-28",
+      "failing_days": 1
     },
     "JABTS学術集会": {
       "listed": 1,
@@ -274,8 +278,8 @@
       "last_ok": "2026-11-28"
     },
     "技師会の研修一覧": {
-      "listed": 36,
-      "upcoming": 32,
+      "listed": 35,
+      "upcoming": 31,
       "last_ok": "2026-11-28"
     },
     "香川県技師会のお知らせ(別枠)": {

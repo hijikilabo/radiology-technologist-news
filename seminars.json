@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-28T13:48+09:00",
+ "checked_at": "2026-11-28T22:16+09:00",
  "items": [
   {
    "title": "告示研修（基礎研修）",
@@ -277,19 +277,6 @@
    "place": "オンライン",
    "category": "MRI",
    "source": "日本磁気共鳴専門技術者認定機構"
-  },
-  {
-   "title": "第19回 愛媛県診療放射線技師学術大会",
-   "url": "https://ehimeart.com/xo_event/%e7%ac%ac19%e5%9b%9e-%e6%84%9b%e5%aa%9b%e7%9c%8c%e8%a8%ba%e7%99%82%e6%94%be%e5%b0%84%e7%b7%9a%e6%8a%80%e5%b8%ab%e5%ad%a6%e8%a1%93%e5%a4%a7%e4%bc%9a",
-   "kind": "EHIME",
-   "status": "",
-   "event_start": "2027-01-23",
-   "event_end": "2027-01-23",
-   "apply_start": "",
-   "apply_end": "",
-   "place": "愛媛",
-   "source": "愛媛県診療放射線技師会",
-   "category": "学術"
   },
   {
    "title": "2026年度第3回 STAT画像所見報告セミナー",
